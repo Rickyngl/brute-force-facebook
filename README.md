@@ -3,7 +3,7 @@ Bruteforce attack for Facebook Account
 # Install Requirements (Linux)
 * apt-get install git python3 python3-pip python python-pip
 # Run commands by steps
-* git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
+* git clone https://github.com/Rickyngl/brute-force-facebook.git
 * cd Facebook-BruteForce
 * pip3 install requests bs4
 * pip install mechanize
